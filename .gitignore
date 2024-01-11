@@ -1,0 +1,10 @@
+# 檔案名稱 .gitignore
+
+# 忽略以下資料夾
+datasets/
+runs/
+ultralytics/
+
+*.pt
+*.mar
+*.cache
